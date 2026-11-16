@@ -14,7 +14,7 @@ export const personalInfo = {
   email: "varadgursalkar17@gmail.com",
   location: "Pune, Maharashtra, India",
   openToRelocate: true,
-  linkedin: "https://www.linkedin.com/in/varadgursalkar/",
+  linkedin: "https://www.linkedin.com/in/varad-gursalkar-businessanalyst/",
   github: "https://github.com",
   resumePath: "/varad-resume.pdf",
   photo: "/varad-photo.jpg",
